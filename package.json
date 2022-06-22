@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
     "author": "Robert Shoemaker",
+    "description": "This is the start of a wonderful project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
